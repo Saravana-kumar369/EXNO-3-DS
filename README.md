@@ -32,8 +32,8 @@ We use this categorical data encoding technique when the features are nominal(do
 
 ## CODING AND OUTPUT:
 ```
-NAME : YAMUNAASRI T S
-REG NO : 212222240117
+NAME : SARAVANAKUMAR M
+REG NO : 212222230133
 ```
 ~~~
      import pandas as pd
